@@ -5,7 +5,7 @@
 from __future__ import print_function
 
 # All the shared functions are in this package.
-from shared.zeservices import ZEServices
+from zeservices import ZEServices
 
 import json
 
